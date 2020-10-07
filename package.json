@@ -12,7 +12,8 @@
     "url": "git+https://github.com/infern018/socket_app.git"
   },
   "engines": {
-    "node": "12.6.1"
+    "node": "12.6.1",
+    "nodemon":"2.0.4"
   },
   "author": "vishwas",
   "license": "ISC",
