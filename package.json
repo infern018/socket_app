@@ -1,0 +1,28 @@
+{
+  "name": "socket_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infern018/socket_app.git"
+  },
+  "engines": {
+    "node": "12.6.1",
+    "nodemon":"2.0.4"
+  },
+  "author": "vishwas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/infern018/socket_app/issues"
+  },
+  "homepage": "https://github.com/infern018/socket_app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
